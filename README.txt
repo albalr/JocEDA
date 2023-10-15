@@ -1,9 +1,5 @@
 
-title:      ThePurge
+title: ThePurge
 
-author(s):  Albert Oliveras
+Joc d'EDA (Estructura de Dades i Algoritmes)
 
-
-contact:    oliveras@cs.upc.edu
-
-(c) Universitat Politècnica de Catalunya, 2022
